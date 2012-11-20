@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  id: 1
+  postid: 1
+  anonuser: MyString
+  commentext: MyString
+
+two:
+  id: 1
+  postid: 1
+  anonuser: MyString
+  commentext: MyString
